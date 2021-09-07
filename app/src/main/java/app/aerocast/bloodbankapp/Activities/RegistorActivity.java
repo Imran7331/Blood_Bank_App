@@ -13,6 +13,7 @@ import app.aerocast.bloodbankapp.R;
 public class RegistorActivity extends AppCompatActivity {
    private EditText nameEt, cityEt, phoneEt, bloodgroupEt, passwordEt;
   private Button submit_button;
+  String abc;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
